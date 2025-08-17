@@ -1,0 +1,85 @@
+
+Start learning AI (I made this manually for you, there are many, its just for start)
+
+install these apps in modile
+	1. perplexity (Anything you want to know - ask)
+	2. Claude
+	3. replit
+	4. chatgpt
+
+
+Cources:
+	1. https://huggingface.co/learn
+
+Install these in your system:
+	1. ollama : https://ollama.com/download/mac
+	2. how to ollama : https://github.com/ollama/ollama
+	3. install openwebui (use docker): https://docs.openwebui.com/getting-started/quick-start/starting-with-ollama	
+
+
+Pay importance to following (or google or ask in perplexisity or chatfpt)
+	1. LLM, agents, MCP server
+	2. Transformers, Attention, RAG, Vector database (quadrant,Chroma)
+	3. Antropic, notebookLM,
+
+
+Youtube: 3Blue1Brown ( visually know what is LLM and model and how they work)
+	1. https://www.youtube.com/watch?v=LPZh9BOjkQs&ab_channel=3Blue1Brown
+	2. https://www.youtube.com/watch?v=eMlx5fFNoYc&t=10s&ab_channel=3Blue1Brown
+
+
+Automation:
+	1. https://n8n.io/
+	2. https://www.make.com/
+	3. https://dify.ai/
+	4. Zapier – Automate apps with AI
+	5. Langflow – Visual drag-and-drop for AI apps
+
+Development tools (Web application)
+	1. local (download them):
+		https://cursor.com/home
+		https://windsurf.com/
+		https://www.trae.ai/solo
+
+	2. online :
+		https://replit.com/
+		https://www.rocket.new/
+		https://www.zoho.com/
+		https://claude.ai/
+		bolt / loveable /CodeSandbox
+		Replicate.com – run AI models via API
+	4. Know anything (important)
+		https://www.perplexity.ai/
+	5. deploy your web apps
+		Vercel
+		Netlify
+		Render	
+
+reporitories of models 
+	1. see all models : https://huggingface.co/models
+	2. test all models : https://huggingface.co/spaces
+	3. AI model comparision : https://artificialanalysis.ai/leaderboards/models
+	4. one place to use all models : https://openrouter.ai/ (paid)
+	5. ai images and video free models : https://civitai.com/
+	6. local ai images using model : https://www.comfy.org/
+
+
+
+Hosting
+	1. https://developers.cloudflare.com/
+	2. https://www.hostinger.com/
+	3. https://www.digitalocean.com/
+
+
+Communities to Join
+	•	Reddit: r/MachineLearning, r/LocalLLaMA
+	•	Discord: Hugging Face, LangChain, AI Agents
+	•	Twitter/X: Follow Andrej Karpathy, Yann LeCun, Lex Fridman	
+
+
+
+Extras:
+	1. https://www.youtube.com/watch?v=RNF0FvRjGZk&t=70s&ab_channel=GalLahat
+	2. https://www.youtube.com/watch?v=KMHkbXzHn7s&t=742s&ab_channel=UnderTheHood
+	3. https://www.youtube.com/watch?v=eMlx5fFNoYc&t=10s&ab_channel=3Blue1Brown
+	4. https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=6&ab_channel=3Blue1Brown
